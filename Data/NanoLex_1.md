@@ -555,7 +555,8 @@ Albumin-bound paclitaxel represents a significant advancement in chemotherapy fo
 #### Relational Adjectives (Pertainyms):
  - **Sulfonated:** Pertaining to or containing sulfonic acid groups, as in the case of aluminum tetrasulfophthalocyanine, impacting its solubility and versatility.
 
-### Expanded Definition and Usage Notes\nAluminum tetrasulfophthalocyanine is particularly valued for its environmental compatibility and versatility, being widely used in both industrial and medical fields. In the textile and printing industries, its bright, water-soluble pigmentation provides vibrant, consistent coloring that is less likely to fade compared to non-sulfonated alternatives. In medical applications, its high absorption of specific light wavelengths makes it a potent agent for triggering photodynamic reactions, essential for various therapeutic treatments, including cancer therapy.
+### Expanded Definition and Usage:
+Aluminum tetrasulfophthalocyanine is particularly valued for its environmental compatibility and versatility, being widely used in both industrial and medical fields. In the textile and printing industries, its bright, water-soluble pigmentation provides vibrant, consistent coloring that is less likely to fade compared to non-sulfonated alternatives. In medical applications, its high absorption of specific light wavelengths makes it a potent agent for triggering photodynamic reactions, essential for various therapeutic treatments, including cancer therapy.
 
 This entry not only defines aluminum tetrasulfophthalocyanine but also explores its relationships and roles within broader categories of dyes and therapeutic agents, facilitating a deeper understanding of its commercial and medical significance. The lexical relations help to clarify the usage and characteristics of this compound, making this entry a valuable resource for professionals in dye production, textile manufacturing, and medical therapy development.
 
@@ -3100,7 +3101,8 @@ This lexical dictionary entry not only defines and classifies chemotherapeutic d
 
 **Relational Adjectives (Pertainyms):** Chikungunya (pertaining to or caused by the chikungunya virus).
 
-### Expanded Definition and Usage Notes\nThe chikungunya virus is a significant threat in many parts of the world, particularly in Africa, Asia, and increasingly in the Americas, where it has caused substantial outbreaks. The disease can lead to debilitating joint pain that persists for months or even years in some patients. Absolute prevention of infection relies heavily on mosquito control measures, as there are currently no specific antiviral treatments available, and the public health response primarily focuses on symptomatic relief and vector control.
+### Expanded Definition and Usage:
+The chikungunya virus is a significant threat in many parts of the world, particularly in Africa, Asia, and increasingly in the Americas, where it has caused substantial outbreaks. The disease can lead to debilitating joint pain that persists for months or even years in some patients. Absolute prevention of infection relies heavily on mosquito control measures, as there are currently no specific antiviral treatments available, and the public health response primarily focuses on symptomatic relief and vector control.
 
 
 
