@@ -334,7 +334,8 @@ AG nanowires are pivotal in advancing electronic technologies due to their combi
 
 **Ag NP** (Abbreviation): Short for `Silver Nanoparticles`, this term refers to nanoscale particles of silver, typically ranging from 1 to 100 nanometers in diameter. These particles are known for their high surface area to volume ratio, which enhances their chemical reactivity and antimicrobial properties, making them valuable in various applications.
 
-#### Expanded Definition:\nAg NPs are extensively utilized in the medical field for their antibacterial properties, incorporated in coatings for medical devices, wound dressings, and diagnostic tools to reduce the risk of infection. Their anti-inflammatory and wound-healing properties are also exploited in dermatological products. In industry, they are used in water purification systems, textiles, and consumer products to inhibit microbial growth. Furthermore, silver nanoparticles are investigated for their potential in electronic devices for conductive inks and components, as well as in catalysis for enhancing chemical reactions.
+#### Expanded Definition and Usage:
+Ag NPs are extensively utilized in the medical field for their antibacterial properties, incorporated in coatings for medical devices, wound dressings, and diagnostic tools to reduce the risk of infection. Their anti-inflammatory and wound-healing properties are also exploited in dermatological products. In industry, they are used in water purification systems, textiles, and consumer products to inhibit microbial growth. Furthermore, silver nanoparticles are investigated for their potential in electronic devices for conductive inks and components, as well as in catalysis for enhancing chemical reactions.
 
 ### Lexical Relationships:
 
