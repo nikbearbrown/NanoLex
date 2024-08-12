@@ -2081,7 +2081,7 @@ Calcium phosphate nanoparticles are integral to modern regenerative medicine, pa
 
 
 
-### Lexical Dictionary Entry: Camptothecin Lexical Dictionary Entry: Camptothecin
+### Lexical Dictionary Entry: Camptothecin
 
 **Definition:** Camptothecin is a potent alkaloid extracted from the bark of the Chinese tree *Camptotheca acuminata*, primarily known for its inhibition of the enzyme topoisomerase I. This inhibition leads to the disruption of DNA replication and transcription, making camptothecin a valuable compound in the treatment of various cancers, including ovarian, lung, and colorectal cancers.
 
