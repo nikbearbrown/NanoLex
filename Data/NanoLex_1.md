@@ -2204,8 +2204,6 @@ Cancer nanomedicine represents a paradigm shift in the management of cancer, off
 ### Expanded Definition and Usage:
 The lexical dictionary entry for "cancer nanomedicine" comprehensively covers its definition, classification, and various relationships within the medical and technological lexicon. This detailed understanding aids in the clear communication of concepts and advancements in the field, enhancing both academic discourse and public awareness of the transformative potential of nanotechnology in cancer care.
 
-### Lexical Dictionary Entry: Cancer Nanotechnology
-
 #### Lexical Dictionary Entry: Cancer Nanotechnology
 
 **Cancer Nanotechnology** (n.):  The application of nanotechnology to the diagnosis, prevention, treatment, and management of cancer. This interdisciplinary field utilizes nanoparticles, nanodevices, and nanoscale materials to interact with biological systems at the molecular or cellular level, optimizing therapeutic efficacy and reducing side effects. Innovations in cancer nanotechnology include targeted drug delivery systems that precisely administer chemotherapy directly to tumor cells, enhancing drug accumulation at the site of disease while minimizing systemic toxicity. Additionally, it encompasses advanced imaging techniques that use nanoscale contrast agents for early cancer detection, and the development of nanorobots capable of performing complex surgical tasks at the cellular level.
@@ -3077,9 +3075,9 @@ Chemotherapeutic drugs are crucial in the fight against cancer, offering options
 
 This lexical dictionary entry not only defines and classifies chemotherapeutic drugs but also explores their relationships with other medical terms, providing a comprehensive understanding of their role and significance in cancer treatment.
 
-### Lexical Dictionary Entry: „Chikungunya Virus\"
+### Lexical Dictionary Entry: Chikungunya Virus
 
-**Definition:** The term „Chikungunya Virus\" (CHIKV) refers to a mosquito-borne virus belonging to the family Togaviridae and the genus Alphavirus. This virus is primarily transmitted by Aedes mosquitoes, particularly Aedes aegypti and Aedes albopictus. CHIKV is known to cause chikungunya fever, which is characterized by sudden onset of fever and severe joint pain, as well as other symptoms such as fatigue, headache, muscle pain, and rash. The term captures both the viral agent and its associated arthritic symptoms, highlighting the significant public health concern posed by this virus in tropical and subtropical regions.
+**Definition:** The term Chikungunya Virus (CHIKV) refers to a mosquito-borne virus belonging to the family Togaviridae and the genus Alphavirus. This virus is primarily transmitted by Aedes mosquitoes, particularly Aedes aegypti and Aedes albopictus. CHIKV is known to cause chikungunya fever, which is characterized by sudden onset of fever and severe joint pain, as well as other symptoms such as fatigue, headache, muscle pain, and rash. The term captures both the viral agent and its associated arthritic symptoms, highlighting the significant public health concern posed by this virus in tropical and subtropical regions.
 
 **Part-of-Speech:** Noun.
 
@@ -3095,7 +3093,7 @@ This lexical dictionary entry not only defines and classifies chemotherapeutic d
 
 **Part Holonyms:** Togaviridae family, Alphavirus genus; these broader taxa encompass the viral characteristics shared with other members of these groups.
 
-**Verb Relations:** „Transmit\" (the virus is transmitted by mosquito vectors), „Infect\" (the virus infects human hosts), „Cause\" (the virus is the causative agent of chikungunya fever).
+**Verb Relations:** Transmit (the virus is transmitted by mosquito vectors), Infect (the virus infects human hosts), Cause (the virus is the causative agent of chikungunya fever).
 
 **Antonyms:** There are no direct antonyms; however, one could consider viruses that do not primarily infect humans as a contrasting category.
 
@@ -3542,7 +3540,7 @@ Colloids play a critical role in various industrial and biological processes. In
 
 ### Lexical Dictionary Entry: Colloidal Assembly
 
-#### Definition:\n'Colloidal assembly' refers to the systematic arrangement or organization of colloidal particles into structured aggregates or patterns through various interacting forces, including van der Waals forces, electrostatic forces, magnetic forces, and capillary forces. This assembly is often directed by external fields or intrinsic properties of the particles themselves, leading to diverse structural forms such as colloidal crystals, photonic gels, or nanocomposites.
+#### Definition: Colloidal assembly refers to the systematic arrangement or organization of colloidal particles into structured aggregates or patterns through various interacting forces, including van der Waals forces, electrostatic forces, magnetic forces, and capillary forces. This assembly is often directed by external fields or intrinsic properties of the particles themselves, leading to diverse structural forms such as colloidal crystals, photonic gels, or nanocomposites.
 
 #### Part-of-Speech:
  - **Noun:** Colloidal assembly is treated as a noun, representing the concept of arranging colloidal materials into structured forms.
