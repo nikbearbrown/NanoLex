@@ -7562,7 +7562,8 @@ Nano catalysts are pivotal in modern chemical processes due to their enhanced pe
  - **Lexical Aspect:** The entry expands on the technical and functional aspects of nano catalysts, emphasizing their significance in enhancing chemical reaction efficiency and sustainability.
  - **Usage Examples:** Include their role in synthetic organic chemistry, petrochemical refining, and environmental protection.
 
-### Summary\nThe lexical dictionary entry for "nano catalyst" provides a comprehensive linguistic and functional overview of this important scientific concept. By classifying nano catalysts within broader categories and identifying their relationships with other terms, the entry enhances understanding of their role in nanotechnology and chemical engineering. The expanded definition underscores their practical applications and the critical benefits they offer to various industries, particularly in terms of efficiency and environmental sustainability.
+### Summary\
+The lexical dictionary entry for "nano catalyst" provides a comprehensive linguistic and functional overview of this important scientific concept. By classifying nano catalysts within broader categories and identifying their relationships with other terms, the entry enhances understanding of their role in nanotechnology and chemical engineering. The expanded definition underscores their practical applications and the critical benefits they offer to various industries, particularly in terms of efficiency and environmental sustainability.
 
 
 
