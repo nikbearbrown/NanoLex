@@ -132,7 +132,7 @@ Gadolinium's unique properties, particularly its strong magnetic response and ef
 
 **Gated Mesoporous Silica Nanoparticle (GMSN)** (n.): A class of engineered nanoparticles composed of a silica matrix with a periodic mesoporous structure that incorporates a gating system to selectively open or close the pores. This gating mechanism typically involves a responsive material that reacts to specific stimuli, such as pH, temperature, light, or biochemical signals. GMSNs are utilized extensively in targeted drug delivery systems, where they release therapeutic agents at precise locations in the body, improving treatment efficacy and reducing side effects. They are also employed in diagnostic applications, catalysis, and as sensors due to their high surface area, tunable pore size, and the ability to functionalize their surfaces.
 
-#### Part-of-Speech
+the *Part-of-Speech is 
  - **Noun Phrase:** Engineered nanoparticles with a controlled release mechanism.
 
 #### Classification
@@ -177,11 +177,11 @@ Gated Mesoporous Silica Nanoparticles (GMSNs) are at the forefront of advanced m
 
 ### Lexical Dictionary Entry: "ge11 Peptide"
 
-**Lexical Dictionary Entry: \"ge11 Peptide\"**
+
 
 **Definition:** ge11 peptide is a synthesized amino acid sequence identified for its ability to promote efficient and specific targeting of the Epidermal Growth Factor Receptor (EGFR) with high affinity. This peptide is utilized in therapeutic contexts to enhance drug delivery and receptor interaction precision, significantly impacting cancer treatment where EGFR plays a crucial role.
 
-**Part-of-Speech:** Noun Phrase
+the *Part-of-Speech is Noun Phrase
 
 **Classification:** Forensic Medicine, Oncology, Molecular Biology
 
@@ -354,7 +354,7 @@ Gene therapy represents a paradigm shift in how diseases, particularly genetic d
 
 **Gene/Drug Delivery** (n.): A specialized area within biomedical engineering that focuses on the development and application of methods to transport genetic material or pharmaceutical agents into cells or specific tissues in a controlled, efficient, and targeted manner. This process involves the use of various carriers, such as viral vectors, liposomes, nanoparticles, or dendrimers, which are engineered to overcome biological barriers, ensure stability and protect the therapeutic agents, and release them in a controlled manner at the site of action. The ultimate goal of gene/drug delivery systems is to enhance the efficacy of treatments, reduce systemic side effects, and achieve targeted therapeutic actions at molecular and cellular levels.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun:** The term is used as a noun to refer to the field or concept involving the specialized methods of delivering genes or drugs.
 
 #### Classification:
@@ -400,7 +400,7 @@ Gene/drug delivery systems are integral to the advancement of precision medicine
 
 **Genexol** (n.): A novel polymeric micelle formulation, primarily incorporating paclitaxel, designed to enhance the delivery and therapeutic efficacy of this chemotherapeutic agent. Genexol is engineered to overcome the solubility issues associated with taxanes, facilitating a better distribution of the drug in cancerous tissues and minimizing the adverse effects commonly associated with chemotherapy.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun:** Genexol functions as a noun, referring specifically to this advanced pharmaceutical formulation.
 
 #### Classification:
@@ -619,9 +619,9 @@ These lexicon-rich descriptions help in understanding the multifunctionality and
 
 ### Lexical Dictionary Entry: Gold Colloid
 
-#### Definition\nGold colloid refers to a suspension of fine gold particles in a liquid, where the particles are usually in nanometer sizes ranging from 1 to 100 nanometers. These suspensions exhibit unique optical properties due to the collective oscillation of electrons at the surface of the nanoparticles, commonly described by the phenomenon known as surface plasmon resonance. Gold colloids are known for their vibrant colors, which range from deep red to purple, depending on the size and shape of the gold particles as well as their concentration. These materials are extensively used in medical diagnostics, targeted drug delivery, photothermal therapy, and as tracers in biological studies.
+ Gold colloid refers to a suspension of fine gold particles in a liquid, where the particles are usually in nanometer sizes ranging from 1 to 100 nanometers. These suspensions exhibit unique optical properties due to the collective oscillation of electrons at the surface of the nanoparticles, commonly described by the phenomenon known as surface plasmon resonance. Gold colloids are known for their vibrant colors, which range from deep red to purple, depending on the size and shape of the gold particles as well as their concentration. These materials are extensively used in medical diagnostics, targeted drug delivery, photothermal therapy, and as tracers in biological studies.
 
-#### Part-of-Speech
+the *Part-of-Speech is 
  - **Noun:** Gold colloid functions as a noun, referring specifically to the mixture of gold particles suspended in a liquid.
 
 #### Classification
@@ -977,7 +977,7 @@ Overall, gold nanoparticle conjugates represent a fusion of chemistry, biology, 
 
 **Gold Nanoparticle Trapping** (n.): The process of capturing and immobilizing gold nanoparticles (AuNPs) within a stable matrix or onto surfaces, typically achieved through chemical bonding, adsorption, or using physical entrapment techniques. This process maximizes the surface area and reactivity of the AuNPs for enhanced performance in catalytic, electronic, optical, or biomedical applications. Gold nanoparticle trapping is crucial for developing efficient sensors, catalysts, and targeted drug delivery systems, where controlled release and reduced aggregation of nanoparticles are essential for optimal function and safety.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun Phrase:** \"Gold nanoparticle trapping\" functions as a noun phrase within scientific and technical contexts, referring specifically to the methodical capture and immobilization of gold nanoparticles for various applications.
 
 #### Classification:
@@ -1152,7 +1152,7 @@ Gold nanoshells are particularly valued for their high tunability, allowing for 
 
 **Gold Nanosphere** (n.): Spherical particles of gold with a diameter typically ranging from 1 to 500 nanometers. These particles are characterized by their uniform size and shape, which are critical for their optical properties and chemical reactivity. Gold spheres are widely used in various fields including electronics, where they enhance the conductivity of circuits; medicine, where they are employed in imaging, drug delivery, and cancer therapy; and catalysis, where they serve as effective catalysts in chemical reactions.
 
-#### Part-of-Speech
+the *Part-of-Speech is 
  - **Noun:** Specifies the category of materials, focusing on the physicochemical characteristics and applications of gold nanospheres.
 
 #### Classification
@@ -1239,7 +1239,7 @@ Gold nanostars are recognized for their advanced capability in absorbing and sca
 
 ### Lexical Dictionary Entry: Gold Radioisotope
 
-#### Dictionary Definition:\n**Gold Radioisotope (n.):** Isotopes of gold that are radioactive, primarily used in medical diagnostics and therapy. They are characterized by their instability and the emission of radiation during decay, which can be utilized in imaging and treatment procedures. The most notable gold radioisotope is Gold-198, employed in brachytherapy for prostate cancer treatment and in the diagnosis of certain types of diseases.
+ **Gold Radioisotope (n.):** Isotopes of gold that are radioactive, primarily used in medical diagnostics and therapy. They are characterized by their instability and the emission of radiation during decay, which can be utilized in imaging and treatment procedures. The most notable gold radioisotope is Gold-198, employed in brachytherapy for prostate cancer treatment and in the diagnosis of certain types of diseases.
 
 #### Classification:
  - **Nuclear Medicine Material:** Items used in the practice of nuclear medicine for diagnostics and therapy.
@@ -1417,9 +1417,9 @@ Graphene nanoplatelets, with their unique combination of high electrical conduct
 
 ### Lexical Dictionary Entry: Graphene Nanoribbon
 
-#### Definition:\nGraphene nanoribbons (GNRs) are one-dimensional strips of graphene with width on the nanometer scale and lengths that can extend to several micrometers. These ribbons exhibit unique electronic, optical, and mechanical properties governed by their width, edge shape, and chemical modifications. GNRs are primarily utilized in advanced electronic devices, nanocomposites, sensors, and energy storage solutions.
+  \nGraphene nanoribbons (GNRs) are one-dimensional strips of graphene with width on the nanometer scale and lengths that can extend to several micrometers. These ribbons exhibit unique electronic, optical, and mechanical properties governed by their width, edge shape, and chemical modifications. GNRs are primarily utilized in advanced electronic devices, nanocomposites, sensors, and energy storage solutions.
 
-#### Part-of-Speech:\nNoun Phrase: \"Graphene nanoribbon\" functions as a noun phrase, referring to the specific nanostructured form of graphene.
+the *Part-of-Speech is :\nNoun Phrase: \"Graphene nanoribbon\" functions as a noun phrase, referring to the specific nanostructured form of graphene.
 
 #### Classification:
  - **Nanomaterials:** Broad class of materials engineered at the nanoscale.
@@ -1506,7 +1506,7 @@ Graphene nanosheets are heralded as a cornerstone of future technology due to th
 
 **Graphene Oxide-Cu** (n.): A composite material consisting of graphene oxide decorated or functionalized with copper nanoparticles. This combination leverages the unique properties of graphene oxide, such as its high surface area, mechanical strength, and electrical conductivity, along with the antimicrobial and catalytic properties of copper. This material is primarily used in biomedical applications including drug delivery systems, biosensors, and antimicrobial coatings, as well as in environmental applications such as water purification and air filtration.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun:** Graphene oxide-cu functions as a noun, referring to the specific composite material used in various advanced applications.
 
 #### Classification:
@@ -1769,7 +1769,7 @@ Hairy plasmonic nanoparticles are particularly valued in fields such as biomedic
 
 **Hard/Soft Hybrid Nanomaterial** (n.): Composite structures at the nanoscale that integrate both hard (rigid, crystalline, or inorganic) and soft (flexible, organic, or polymeric) materials. These nanomaterials are designed to exploit the distinct properties of both types of material, such as the strength and durability of hard components and the elasticity and processability of soft components. This hybridization enhances material functionality for applications in drug delivery, electronic devices, catalysts, sensors, and tissue engineering, where tailored mechanical, electrical, and chemical properties are essential.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun Phrase:** 'Hard/Soft Hybrid Nanomaterial' acts as a noun phrase, denoting a specific class of nanoscale materials.
 
 #### Classification:
@@ -1901,7 +1901,7 @@ Hierarchical nanostructures offer significant advantages in the development of h
 
 **Hierarchical Structure** (n.): A systematic arrangement of elements or entities where each entity is ranked according to levels of authority, importance, or complexity. This configuration is characterized by multiple tiers; each higher tier holds precedence over the tiers below it, influencing or controlling those layers. Hierarchical structures are prevalent in organizational management, biological taxonomy, and database design, facilitating order, clarity, and functional efficiency within complex systems.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun:** Specifies the kind of structure being discussed, emphasizing its systematic and layered nature.
 
 #### Classification:
@@ -1944,9 +1944,9 @@ These deeper lexical and conceptual relationships enrich our understanding of 'h
 
 ### Lexical Dictionary Entry: Hollow Gold‚ÄëSilver Nanoshell
 
-#### Definition:\n'Hollow Gold‚ÄëSilver Nanoshell' (n.): A type of engineered nanostructure consisting of a hollow silica core coated with a thin shell of gold and silver. These nanoshells are characterized by their unique optical properties, particularly their tunable absorption and scattering of light, which can be precisely controlled by adjusting the thickness of the metallic layers. This tunability makes them highly effective in applications such as targeted drug delivery, photothermal therapy, and as optical sensors in biomedical diagnostics.
+  \n'Hollow Gold‚ÄëSilver Nanoshell' (n.): A type of engineered nanostructure consisting of a hollow silica core coated with a thin shell of gold and silver. These nanoshells are characterized by their unique optical properties, particularly their tunable absorption and scattering of light, which can be precisely controlled by adjusting the thickness of the metallic layers. This tunability makes them highly effective in applications such as targeted drug delivery, photothermal therapy, and as optical sensors in biomedical diagnostics.
 
-#### Part-of-Speech:\n‚Ä¢ Noun: 'Hollow Gold‚ÄëSilver Nanoshell' is used as a noun within scientific discourse, particularly in the fields of nanotechnology, material science, and medicine.
+the *Part-of-Speech is :\n‚Ä¢ Noun: 'Hollow Gold‚ÄëSilver Nanoshell' is used as a noun within scientific discourse, particularly in the fields of nanotechnology, material science, and medicine.
 
 #### Classification:\n‚Ä¢ Nanomaterial: Classified under nanomaterials due to their size and structure at the nanoscale.\n‚Ä¢ Photonic Device: Considered a type of photonic device for their ability to manipulate light through absorption and scattering.\n¬†\n#### Synonymy:\n‚Ä¢ Bimetallic Nanoshell: Often used synonymously, emphasizing the dual-metal composition of gold and silver.\n‚Ä¢ Au‚ÄëAg Shells: A shorthand that highlights the gold (Au) and silver (Ag) components of the shells used.\n‚Ä¢ Optical Nanoshells: Another term that refers to their primary function in manipulating optical properties.\n¬†\n#### Hypernymy:\n‚Ä¢ Gold Nanoparticle: As a broader category, includes all nanoparticles made of gold, under which bimetallic combinations like gold-silver fall.\n‚Ä¢ Composite Nanostructure: More specifically, refers to nanostructures composed of multiple materials to enhance functionality.\n¬†\n#### Hyponymy:\n‚Ä¢ Plasmonic Nanoshell: Specifies nanoshells that exploit surface plasmon resonance, particularly useful in medical imaging and photothermal therapy.\n‚Ä¢ Diagnostic Nanoshell: Focuses on the use of these nanoshells in diagnostic applications, such as biosensing and imaging.\n¬†\n#### Meronymy:\n‚Ä¢ Silica Core: The foundational structure of the nanoshell, typically made from silica, providing a stable and reactive core.\n‚Ä¢ Metallic Layer: The outer layers of the nanoshell, made of gold and silver, responsible for the optical properties.\n¬†\n#### Part Holonyms:\n‚Ä¢ Targeted Therapy Systems: Includes broader medical systems where these nanoshells are used for targeted drug delivery and therapy.\n‚Ä¢ Advanced Optical Sensors: Encompasses sensor systems that utilize the optical properties of nanoshells for detection and analysis.\n¬†\n#### Verb Relations:\n‚Ä¢ Absorb: Describes the action of the nanoshells absorbing light due to the metallic layers.\n‚Ä¢ Scatter: Refers to the scattering of light by the nanoshells, enhancing their visibility and functionality in optical applications.\n¬†\n#### Antonymy:\n‚Ä¢ Solid Metal Nanoparticle: Refers to nanoparticles made of a solid single metal, contrasting with the hollow, layered structure of nanoshells.\n¬†\n#### Relational Adjectives (Pertainyms):\n‚Ä¢ Plasmonic: Pertaining to or involving plasma waves, particularly in the context of manipulating light at the nanoscale.\n¬†\n### Expanded Definition and Usage:
 Hollow Gold‚ÄëSilver Nanoshells are at the forefront of nanotechnology applications due to their unique ability to absorb and scatter light at specific wavelengths, which can be tuned by adjusting the shell's thickness. This property is particularly useful in biomedical applications where targeted energy absorption can be used for non-invasive therapies. For instance, in photothermal therapy, these nanoshells can be targeted to tumors and activated by near-infrared light, producing heat that selectively destroys cancer cells. Additionally, their high optical sensitivity makes them ideal for developing highly sensitive biosensors capable of detecting low concentrations of biological markers.
@@ -2392,7 +2392,7 @@ The **hydrodynamic diameter** is a critical parameter in controlling and predict
 
 **Definition:** Hydrogel films are thin, flexible sheets of material composed primarily of hydrophilic polymer networks that can absorb and retain large amounts of water within their structure. These films are characterized by their high water content, which imparts properties such as softness, tissue-like elasticity, and biocompatibility. They are extensively used in biomedical applications, such as wound dressings, drug delivery systems, and scaffolds for tissue engineering, as well as in industrial settings for agriculture and environmental control.
 
-**Part-of-Speech:** Noun
+the *Part-of-Speech is Noun
 
 **Classification:** Hydrogel films are classified under biomaterials, specifically as advanced polymeric materials with high water absorption and retention capacities. They belong to the broader category of smart materials due to their responsive behavior to environmental stimuli.
 
@@ -2462,9 +2462,9 @@ Hydrogel nanoparticles are particularly valued for their ability to provide cont
 
 ### Lexical Dictionary Entry: Hydrogel Scaffold
 
-#### Definition:\nA hydrogel scaffold is a three-dimensional, porous structure composed of hydrophilic polymers that can absorb and hold large amounts of water or biological fluids, mimicking the extracellular matrix of biological tissues. These scaffolds are engineered to support cell adhesion, proliferation, and differentiation, providing a temporary but supportive structure for tissue regeneration and repair.
+  \nA hydrogel scaffold is a three-dimensional, porous structure composed of hydrophilic polymers that can absorb and hold large amounts of water or biological fluids, mimicking the extracellular matrix of biological tissues. These scaffolds are engineered to support cell adhesion, proliferation, and differentiation, providing a temporary but supportive structure for tissue regeneration and repair.
 
-#### Part-of-Speech:\nNoun Phrase: 'hydrogel scaffold' acts as a noun phrase, referring to a specific type of biomaterial used in tissue engineering.
+the *Part-of-Speech is :\nNoun Phrase: 'hydrogel scaffold' acts as a noun phrase, referring to a specific type of biomaterial used in tissue engineering.
 
 #### Classification:
  - **Biomaterial:** A broad classification that includes all materials engineered to interact with biological systems.
@@ -3374,7 +3374,7 @@ Kadcyla is a critical advancement in the treatment of HER2-positive breast cance
 
 **Ketac Nano** (n.): A type of glass ionomer cement developed specifically for dental applications, featuring a nanofilled resin that enhances its mechanical properties and aesthetic qualities. This material is used in various dental restorations, including filling cavities, as a lining material under other restorations, and for cementing crowns, bridges, and orthodontic appliances. Ketac Nano is known for its strong bond to tooth structure, natural translucency, and fluoride release, which provides additional protection against caries.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun:** Ketac Nano is primarily used as a noun, referring to the specific product of dental material.
 
 #### Classification:
@@ -3459,9 +3459,9 @@ Lab on a chip devices revolutionize the way laboratory tests are performed by co
 
 ### Lexical Dictionary Entry: 'Lab on a Chip'
 
-#### Definition:\n'Lab on a Chip' (LoC) refers to a miniaturized device that integrates one or several laboratory functions on a single tiny chip, typically only a few square centimeters in size. These devices use microfluidics to handle small amounts of fluids, utilizing channels and chambers sculpted into the chip to perform complex biological, chemical, or physical analyses with high precision and speed.
+  \n'Lab on a Chip' (LoC) refers to a miniaturized device that integrates one or several laboratory functions on a single tiny chip, typically only a few square centimeters in size. These devices use microfluidics to handle small amounts of fluids, utilizing channels and chambers sculpted into the chip to perform complex biological, chemical, or physical analyses with high precision and speed.
 
-#### Part-of-Speech:\nNoun Phrase: 'Lab on a Chip' functions as a noun phrase within scientific and engineering contexts, denoting a specific category of micro-engineered devices.
+the *Part-of-Speech is :\nNoun Phrase: 'Lab on a Chip' functions as a noun phrase within scientific and engineering contexts, denoting a specific category of micro-engineered devices.
 
 #### Classification:
  - **Microfluidic Device:** LoC devices fall under the broader category of microfluidic systems, which manipulate small volumes of fluids through tiny channels.
@@ -3895,7 +3895,7 @@ This detailed lexicon entry for "lipid nanoparticle" provides a comprehensive ov
 
 #### Definition (n.):\nLipid rafts are microdomain regions within cell membranes, primarily composed of cholesterol and sphingolipids, that serve as organizing centers for the assembly of signaling molecules, receptors, and other proteins. They are thought to play critical roles in cell signaling, membrane trafficking, and the clustering of membrane proteins involved in endocytosis and exocytosis.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
 
 - **Noun (n.):** Lipid raft is classified as a noun, referring to the specific microdomain structures within cellular membranes.
 
@@ -4168,7 +4168,7 @@ Given the expansive potential of liposomal nanoparticles in medicine, their ongo
 
 **Definition:** Liposomes are spherical vesicles composed of one or more phospholipid bilayers, enclosing an aqueous core. These biomimetic structures are designed to encapsulate and transport both hydrophilic and lipophilic substances, making them particularly valuable in targeted drug delivery and therapeutic applications.
 
-**Part-of-Speech:** Noun.
+the *Part-of-Speech is Noun.
 
 **Classification:** Liposomes fall under the categories of nanocarriers, drug delivery systems, and lipid-based encapsulation technologies within the broader field of pharmaceutical and biomedical sciences.
 
@@ -4777,7 +4777,7 @@ Magnetic microspheres are versatile tools in nanomedicine and diagnostic technol
 
 **Definition:** Magnetic Molecularly Imprinted Nanoparticle (MMIɡnˈɪmptaɪd ˌnænəˈpɑːrtəˌnaɪl)** are engineered nanoparticles that have been magnetically imprinted with specific molecular templates to create selective recognition sites. These nanoparticles combine the high specificity of molecular imprinting with the functional advantages of magnetic nanoparticles, allowing for easy separation and concentration of target molecules from complex mixtures, making them invaluable in biochemical sensing, environmental monitoring, and targeted drug delivery systems.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun:** This is the primary part of speech for Magnetic Molecularly Imprinted Nanoparticles, as they are concrete entities in the fields of nanotechnology and pharmacology.
 
 #### Classification:
@@ -5510,8 +5510,6 @@ Magnetoresistive sensors are integral to modern sensing applications due to thei
 
 ### Lexical Dictionary Entry: Magnetotactic Bacterium
 
-#### Lexical Dictionary Entry: Magnetotactic Bacterium
-
 **Magnetotactic Bacterium** (n.): A group of motile, aquatic bacteria that orient and move along magnetic field lines due to the presence of intracellular magnetic crystals. These organisms synthesize magnetite or greigite crystals, forming magnetosomes that are aligned intracellularly to form a chain. This alignment provides the bacteria with a biological compass, aiding their navigation in aquatic environments, particularly in locating optimal oxygen concentration levels in sulfidic environments.
 
 #### Classification:
@@ -5601,7 +5599,7 @@ This lexical dictionary entry for 'Marqibo' not only clarifies its medical and p
 
 **Definition:** Melanoma cell apoptosis refers to the programmed cell death specific to melanoma cells, a type of skin cancer originating from melanocytes. This process is characterized by a series of biochemical events leading to cellular shrinkage, chromatin condensation, and DNA fragmentation, ultimately resulting in the phagocytosis of dying cells. Apoptosis in melanoma is a critical focus in cancer therapy, as inducing this process in cancer cells can significantly reduce tumor mass and metastasis.
 
-**Part-of-Speech:** Noun phrase.
+the *Part-of-Speech is Noun phrase.
 
 **Classification:** Oncology, Cell Biology, Cancer Therapy.
 
@@ -5729,7 +5727,7 @@ Mepact (mifamurtide) is a critical component in the treatment of high-grade non-
 
 **Definition:** Mesoporous Activated Carbon (MAC) is a type of activated carbon characterized by a highly developed porous structure specifically within the mesopore range, which is defined as pore sizes between 2 to 50 nanometers. This structure enhances the material's surface area and adsorptive capacity, making it particularly effective for trapping and removing pollutants, toxins, and chemical agents from air, water, and industrial processes. MAC is extensively used in environmental cleanup, catalysis, gas storage, and as a support material in various chemical reactions.
 
-**Part-of-Speech:** Noun
+the *Part-of-Speech is Noun
 
 **Classification:** Mesoporous Activated Carbon is classified as a subtype of activated carbon, further categorized within environmental science and chemical engineering materials.
 
@@ -6334,7 +6332,7 @@ This entry in a lexical dictionary reflects the technical sophistication and div
 
 **Micelle** (n.): A spherical or cylindrical arrangement of surfactant molecules in a liquid, where the hydrophobic (water-repelling) tails of the molecules are oriented inward, shielded from the surrounding water, and the hydrophilic (water-attracting) heads are oriented outward towards the water. This structure forms when the concentration of surfactants reaches a specific threshold, known as the critical micelle concentration (CMC). Micelles are crucial in processes such as solubilizing lipids in the intestines, forming stable emulsions, and in the delivery of drugs in nanomedicine, where they increase the solubility and bioavailability of hydrophobic therapeutic agents.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - Noun: 'Micelle' is used as a noun in scientific and technical contexts, referring specifically to the structure formed by surfactant molecules.
 
 #### Classification:
@@ -7026,7 +7024,7 @@ MRI contrast agents are crucial in modern diagnostic imaging, enabling clinician
 
 #### Definition (Lexical Dictionary):\n‚mRNA delivery‘ (n.): The process of introducing synthetic or naturally derived messenger RNA (mRNA) into cells to induce them to produce specific proteins or peptides. This technique is pivotal in mRNA-based therapies, including vaccines and treatments for genetic disorders, where it replaces or supplements faulty genes with functional genetic instructions.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun:** ‚mRNA delivery‘ functions as a noun, referring to the delivery mechanism or process itself.
 
 #### Classification:
@@ -7072,7 +7070,7 @@ MRI contrast agents are crucial in modern diagnostic imaging, enabling clinician
 
 **Definition:** mRNA drugs are therapeutic agents that utilize synthetic messenger RNA (mRNA) to instruct cells to produce proteins that can prevent or treat diseases, including infectious diseases, cancer, and genetic disorders. These drugs represent a novel approach to medicine, wherein the mRNA is taken up by host cells and translated into proteins that trigger an immune response, replace dysfunctional proteins, or correct protein synthesis errors.
 
-**Part-of-Speech:** Noun Phrase
+the *Part-of-Speech is Noun Phrase
 
 **Classification:** Biomedical therapeutics, Genetic medicine
 
@@ -7150,7 +7148,7 @@ The concept of mRNA therapeutics represents a groundbreaking shift in the approa
 
 **Definition:** An mRNA vaccine is a type of immunization that utilizes synthetic messenger RNA (mRNA) to instruct cells to produce a harmless piece of the virus (often a protein), which then prompts an immune response. Unlike traditional vaccines that often use weakened or inactive forms of the virus or parts of it to stimulate immunity, mRNA vaccines simply teach the body’s cells to produce a protein that is part of the virus, leading to the immune system recognizing and attacking the actual virus upon future exposure.
 
-**Part-of-Speech:** Noun
+the *Part-of-Speech is Noun
 
 **Classification:** Immunology; Biotechnology; Vaccine Technology
 
@@ -7309,9 +7307,9 @@ This lexical dictionary entry illustrates the complexity and versatility of mult
 
 ### Lexical Dictionary Entry: Multifunctional Nanosystem
 
-#### Definition:\nA multifunctional nanosystem is an advanced nanostructured composite designed to perform multiple, integrated tasks within a single entity. These systems often combine diagnostic, therapeutic, and monitoring capabilities, utilizing various nanoscale components such as nanoparticles, nanorobots, or nanosensors. Multifunctional nanosystems are primarily developed for medical applications, where they can simultaneously diagnose diseases, provide targeted therapy, and monitor treatment responses in real-time.
+  \nA multifunctional nanosystem is an advanced nanostructured composite designed to perform multiple, integrated tasks within a single entity. These systems often combine diagnostic, therapeutic, and monitoring capabilities, utilizing various nanoscale components such as nanoparticles, nanorobots, or nanosensors. Multifunctional nanosystems are primarily developed for medical applications, where they can simultaneously diagnose diseases, provide targeted therapy, and monitor treatment responses in real-time.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
 
 - **Noun (Compound Noun):** Multifunctional Nanosystem is used as a noun phrase, referring to complex nanotechnological constructs with multiple functionalities.
 
@@ -7537,7 +7535,7 @@ By mapping 'Myocet' into a detailed lexical structure, we deepen our understandi
 
 **Definition:** Nano catalysts are catalysts composed of nano-sized particles that significantly increase the rate of a chemical reaction without being consumed in the process. These nanoparticles have a high surface area to volume ratio, allowing for more active sites compared to bulk materials, which enhances their reactivity and efficiency. Nano catalysts are utilized across various industries for their ability to lower energy consumption and improve reaction selectivity.
 
-**Part-of-Speech:** Noun Phrase
+the *Part-of-Speech is Noun Phrase
 
 **Classification:** Nanotechnology; Catalysis; Chemical Engineering.
 
@@ -7703,7 +7701,7 @@ In constructing this lexical dictionary entry for "nano liposome," efforts were 
 
 ### Lexical Dictionary Entry: Nano Particulate Strategy
 
-**Part-of-Speech:** Noun Phrase
+the *Part-of-Speech is Noun Phrase
 
 **Classification:** Nano-technology; Drug Delivery Systems; Surgical Techniques
 
@@ -7791,9 +7789,9 @@ Here's a comprehensive lexical dictionary entry for the term **'Nano SiO₂'**, 
 
 ### Lexical Dictionary Entry: Nano SiO₂
 
-#### Definition:\n**Nano SiO₂** (n.): Ultra-fine particles of silicon dioxide with at least one dimension in the nanometer range, typically ranging from 10 to 100 nanometers. These particles are utilized for their high surface area and reactivity in various applications, including as a reinforcing agent in polymers, in catalysts to enhance reaction rates, in cosmetics for enhanced skin feel and oil absorption, and as an additive in paints and coatings to improve durability and scratch resistance.
+  \n**Nano SiO₂** (n.): Ultra-fine particles of silicon dioxide with at least one dimension in the nanometer range, typically ranging from 10 to 100 nanometers. These particles are utilized for their high surface area and reactivity in various applications, including as a reinforcing agent in polymers, in catalysts to enhance reaction rates, in cosmetics for enhanced skin feel and oil absorption, and as an additive in paints and coatings to improve durability and scratch resistance.
 
-#### Part-of-Speech:
+the *Part-of-Speech is :
  - **Noun Phrase:** 'Nano SiO₂' functions as a noun phrase, referring specifically to nano-sized particles of silicon dioxide.
 
 #### Classification:
