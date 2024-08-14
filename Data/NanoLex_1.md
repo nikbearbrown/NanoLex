@@ -219,7 +219,7 @@ Active targeting significantly improves the safety and efficacy of therapies by 
 
 **Definition:** 'Administration, intranasal' refers to the delivery of therapeutic agents through the nasal cavity, where the medication rapidly enters the bloodstream via the rich vascularization of the nasal mucosa. This route is particularly useful for substances that are poorly absorbed through the gastrointestinal tract, require rapid onset of effects, or are subject to significant first-pass metabolism if taken orally.
 
-**Part-of-Speech:** Noun Phrase. 'Administration, intranasal' functions as a noun phrase in medical and pharmacological contexts, specifying a particular method of drug delivery.
+the part-of-speech is  Noun Phrase. 'Administration, intranasal' functions as a noun phrase in medical and pharmacological contexts, specifying a particular method of drug delivery.
 
 **Classification:** Medical Procedure; Drug Delivery Method. Intranasal administration is classified under broader medical procedures that involve drug delivery, particularly focusing on non-invasive and systemic routes.
 
@@ -237,7 +237,7 @@ Active targeting significantly improves the safety and efficacy of therapies by 
 
 **Antonyms:** Oral Administration; Injectable Administration. These terms refer to other routes of drug delivery, contrasting with the nasal route.
 
-**Relational Adjectives (Pertainyms):** Nasal; Intranasal. These adjectives pertain to or describe the nasal route of administration, indicative of the method used.
+#### Relational Adjectives (Pertainyms): Nasal; Intranasal. These adjectives pertain to or describe the nasal route of administration, indicative of the method used.
 
 ### Expanded Definition and Usage:
 Intranasal administration is becoming increasingly important in modern medicine for its ability to provide a quick and effective alternative to oral and injectable routes. It is especially beneficial for delivering drugs in emergency situations, such as naloxone for opioid overdoses, or for vaccines that need to stimulate mucosal immunity. This route is also advantageous for patients who cannot swallow pills or for those who have a fear of needles. Moreover, ongoing research into intranasal delivery systems aims to expand its use to include a wider range of therapeutic agents, from hormones to complex biological molecules.
@@ -781,7 +781,7 @@ Aptamers have revolutionized the field of molecular recognition and biotechnolog
 
 #### Dictionary Entry Structure:
  - **Definition:** Focuses on the technical definition and principal components of aptasensors.
- - **Part-of-Speech:** Identifies aptasensors as a noun, classified under biosensors and molecular sensors.
+ - the part-of-speech is  Identifies aptasensors as a noun, classified under biosensors and molecular sensors.
  - **Classification:** Details the broader categories to which aptasensors belong.
  - **Synonymy:** Lists terms that are interchangeably used with or closely related to aptasensors.
  - **Hypernymy:** Identifies more general categories that encompass aptasensors.
@@ -790,7 +790,7 @@ Aptamers have revolutionized the field of molecular recognition and biotechnolog
  - **Part Holonyms:** Expands on the broader systems and devices that incorporate aptasensors.
  - **Verb Relations:** Connects common actions performed by aptasensors.
  - **Antonymy:** Suggests contrasting concepts within sensor technology.
- - **Relational Adjectives (Pertainyms):** Describes characteristics specifically associated with aptasensors.
+ - #### Relational Adjectives (Pertainyms): Describes characteristics specifically associated with aptasensors.
 
 ### Usage and Importance of Aptasensors\nAptasensors are integral to modern detection and diagnostic platforms due to their flexibility and accuracy. They are particularly advantageous in situations where high specificity is crucial, such as in early disease detection or in detecting low concentrations of toxic substances in environmental samples. The ability to rapidly develop well-defined aptamers for new targets also makes aptasensors a dynamic tool in ongoing research and development across multiple fields.
 
@@ -844,7 +844,7 @@ Au-functionalized graphene oxide is celebrated for its enhanced catalytic proper
 
 **Definition:** Au NP, or gold nanoparticles, are small particles of gold with dimensions ranging from 1 to 100 nanometers. These particles exhibit unique optical, electronic, and chemical properties that differ significantly from their bulk counterparts, primarily attributed to their high surface-to-volume ratio and surface plasmon resonance effects. Au NPs are extensively used in biomedicine for diagnostic and therapeutic applications, in electronics for fabricating components with improved conductivity and stability, and in catalysis to enhance reaction efficiencies.
 
-**Part-of-Speech:** Noun Phrase. Au NPs function as nouns within scientific and technical discourse, referring specifically to these nanostructured gold particles.
+the part-of-speech is  Noun Phrase. Au NPs function as nouns within scientific and technical discourse, referring specifically to these nanostructured gold particles.
 
 **Classification:** Au NPs are classified as nanoparticles, a subclass of nanomaterials, and more specifically as metallic nanoparticles. They fall under the broader category of nanomedicine materials and nanotechnology applications in the physical sciences.
 
@@ -862,7 +862,7 @@ Au-functionalized graphene oxide is celebrated for its enhanced catalytic proper
 
 **Antonyms:** Bulk gold (referring to macroscopic forms of gold, contrasting with the nanoscale size and altered properties of Au NPs).
 
-**Relational Adjectives (Pertainyms):** Nanostructured (pertaining to the nanoparticle form of gold), Colloidal (often used to describe solutions where Au NPs are suspended).
+#### Relational Adjectives (Pertainyms): Nanostructured (pertaining to the nanoparticle form of gold), Colloidal (often used to describe solutions where Au NPs are suspended).
 
 ### Expanded Definition and Usage:
 Gold nanoparticles (Au NPs) are particularly valued in research and industry for their ability to interact with light, leading to applications such as highly sensitive biosensors and targeted photothermal therapy in cancer treatment. Their chemical inertness and biocompatibility make them ideal for in vivo imaging and drug delivery systems, enhancing the selective targeting and reducing the systemic toxicity of therapeutic agents. Additionally, in the field of catalysis, Au NPs are used to drive reactions that typically require harsher conditions with greater efficiency, reflecting their role in developing greener chemical processes.
@@ -1970,7 +1970,7 @@ In summary, bionanotechnology is a dynamic and rapidly evolving field that stand
 
 **Definition:** Bioorthogonal catalysis refers to a chemical reaction that occurs within a living organism without interfering with or being affected by the biochemical processes of the organism. This type of catalysis is made possible by the use of artificial catalysts, such as transition metal complexes, that are specifically designed to operate in biological environments, facilitating the selective and efficient transformation of bioorthogonal chemical pairs.
 
-**Part-of-Speech:** Noun Phrase. The term 'bioorthogonal catalysis' functions as a noun phrase in scientific discourse, indicating a specific type of reaction or process within the fields of synthetic chemistry and molecular biology.
+the part-of-speech is  Noun Phrase. The term 'bioorthogonal catalysis' functions as a noun phrase in scientific discourse, indicating a specific type of reaction or process within the fields of synthetic chemistry and molecular biology.
 
 **Classification:** Bioorthogonal chemistry, Catalytic chemistry. It is classified under the broader category of bioorthogonal chemistry, which includes all reactions that do not interfere with biological systems, and within catalytic chemistry, which focuses on the acceleration of chemical reactions through the use of catalysts.
 
@@ -1988,7 +1988,7 @@ In summary, bionanotechnology is a dynamic and rapidly evolving field that stand
 
 **Antonyms:** Biologically interactive catalysis, Enzymatic catalysis. These terms refer to traditional forms of catalytic processes that interact directly with or alter biological pathways, contrasting with the non-interfering nature of bioorthogonal catalysis.
 
-**Relational Adjectives (Pertainyms):** Bioorthogonal. This adjective relates directly to the nature of the catalysis, emphasizing its compatibility and non-interference with biological systems.
+#### Relational Adjectives (Pertainyms): Bioorthogonal. This adjective relates directly to the nature of the catalysis, emphasizing its compatibility and non-interference with biological systems.
 
 ### Expanded Definition and Usage:
 Bioorthogonal catalysis has revolutionized chemical biology by enabling researchers to manipulate and study biological processes with unprecedented precision. For example, it allows for the labeling of specific biomolecules in living organisms, the precise delivery of therapeutic agents, and the development of complex biomolecule structures that could not be achieved with traditional chemical methods. Its applications extend from basic research in understanding cellular processes to advanced therapeutic strategies in treating diseases such as cancer, where targeted and controlled drug release is crucial.
@@ -2085,7 +2085,7 @@ Calcium phosphate nanoparticles are integral to modern regenerative medicine, pa
 
 **Definition:** Camptothecin is a potent alkaloid extracted from the bark of the Chinese tree *Camptotheca acuminata*, primarily known for its inhibition of the enzyme topoisomerase I. This inhibition leads to the disruption of DNA replication and transcription, making camptothecin a valuable compound in the treatment of various cancers, including ovarian, lung, and colorectal cancers.
 
-**Part-of-Speech:** Noun.
+the part-of-speech is  Noun.
 
 **Classification:** Camptothecin is classified as a chemotherapy agent, specifically a topoisomerase inhibitor within the broader category of antineoplastic agents.
 
@@ -2103,7 +2103,7 @@ Calcium phosphate nanoparticles are integral to modern regenerative medicine, pa
 
 **Antonyms:** Drugs that promote DNA synthesis or repair (as oppositional to camptothecin's inhibitory action on these processes).
 
-**Relational Adjectives (Pertainyms):** Chemotherapeutic (pertaining to chemotherapy, indicative of camptothecin's primary use).
+#### Relational Adjectives (Pertainyms): Chemotherapeutic (pertaining to chemotherapy, indicative of camptothecin's primary use).
 
 ### Expanded Definition and Usage:
 Camptothecin, discovered in the 1960s, revolutionized cancer treatment with its introduction as a topoisomerase I inhibitor. This class of drugs was particularly noted for its effectiveness against solid tumors, which are often resistant to other forms of chemotherapy. The natural compound is not used directly due to its potential toxicities and poor solubility; instead, it serves as the basis for semi-synthetic derivatives like irinotecan and topotecan, which are better tolerated and have improved pharmacological profiles.
@@ -3004,7 +3004,7 @@ Cellular uptake mechanisms are vital for maintaining cellular health and functio
 
 **Definition:** Cetuximab is a chimeric (partly human, partly murine) monoclonal antibody designed to bind specifically to the epidermal growth factor receptor (EGFR), a protein often overexpressed in various cancers. By binding to EGFR, cetuximab inhibits receptor dimerization and downstream signaling pathways that promote cell division and survival, thereby exerting its anti-tumor effect. It is primarily used in the treatment of head and neck cancers and metastatic colorectal cancer, often in conjunction with chemotherapy and radiation therapy.
 
-**Part-of-Speech:** Noun
+the part-of-speech is  Noun
 
 **Classification:** Cetuximab is classified as an oncology therapeutic agent, specifically a targeted therapy drug. It is categorized under monoclonal antibodies and EGFR inhibitors within the pharmaceutical subsector.
 
@@ -3022,7 +3022,7 @@ Cellular uptake mechanisms are vital for maintaining cellular health and functio
 
 **Antonyms:** An antonymous concept could be 'non-specific cancer treatment,' referring to therapies that do not target specific cellular receptors like EGFR.
 
-**Relational Adjectives (Pertainyms):** 'EGFR-specific' pertains to the specific nature of cetuximab's action and relevance to treatment protocols targeting the epidermal growth factor receptor.
+#### Relational Adjectives (Pertainyms): 'EGFR-specific' pertains to the specific nature of cetuximab's action and relevance to treatment protocols targeting the epidermal growth factor receptor.
 
 ### Expanded Definition and Usage:
 Cetuximab's role as a targeted therapy in oncology represents a significant advancement in the treatment of cancers with high levels of EGFR expression. Its application alongside chemotherapy and radiation has led to improved outcomes for many patients with advanced head and neck cancers and metastatic colorectal cancer. By specifically targeting EGFR, cetuximab allows for more precise treatment strategies that can reduce tumor growth and improve survival rates with potentially fewer side effects compared to traditional chemotherapies. Additionally, ongoing research into the efficacy of cetuximab in other types of cancers continues to expand its potential use in oncology.
@@ -3079,7 +3079,7 @@ This lexical dictionary entry not only defines and classifies chemotherapeutic d
 
 **Definition:** The term Chikungunya Virus (CHIKV) refers to a mosquito-borne virus belonging to the family Togaviridae and the genus Alphavirus. This virus is primarily transmitted by Aedes mosquitoes, particularly Aedes aegypti and Aedes albopictus. CHIKV is known to cause chikungunya fever, which is characterized by sudden onset of fever and severe joint pain, as well as other symptoms such as fatigue, headache, muscle pain, and rash. The term captures both the viral agent and its associated arthritic symptoms, highlighting the significant public health concern posed by this virus in tropical and subtropical regions.
 
-**Part-of-Speech:** Noun.
+the part-of-speech is  Noun.
 
 **Classification:** Chikungunya virus is classified within the genus Alphavirus, indicating its close genetic and pathogenic relationship with other viruses in this group. It is also classified as an arbovirus (arthropod-borne virus), reflecting its transmission cycle involving insect vectors.
 
@@ -3097,7 +3097,7 @@ This lexical dictionary entry not only defines and classifies chemotherapeutic d
 
 **Antonyms:** There are no direct antonyms; however, one could consider viruses that do not primarily infect humans as a contrasting category.
 
-**Relational Adjectives (Pertainyms):** Chikungunya (pertaining to or caused by the chikungunya virus).
+#### Relational Adjectives (Pertainyms): Chikungunya (pertaining to or caused by the chikungunya virus).
 
 ### Expanded Definition and Usage:
 The chikungunya virus is a significant threat in many parts of the world, particularly in Africa, Asia, and increasingly in the Americas, where it has caused substantial outbreaks. The disease can lead to debilitating joint pain that persists for months or even years in some patients. Absolute prevention of infection relies heavily on mosquito control measures, as there are currently no specific antiviral treatments available, and the public health response primarily focuses on symptomatic relief and vector control.
@@ -3937,7 +3937,7 @@ Composite resins play a pivotal role in modern dentistry, offering a versatile, 
 
 **Definition:** Conductive hydrogels are hydrophilic polymer networks that have been chemically or physically modified to incorporate conductive components, such as metallic nanoparticles, conductive polymers, or carbon-based materials. These materials retain water and have enhanced electrical conductivity, making them suitable for applications that require both mechanical flexibility and electrical performance, such as in bioelectronics, soft robotics, and wearable health monitors.
 
-**Part-of-Speech:** Noun Phrase
+the part-of-speech is  Noun Phrase
 
 #### Classification:
  - **Biocompatible Material:** Suitable for use in biomedical devices.
@@ -4929,8 +4929,6 @@ By systematically organizing the relationship and attributes of the term 'dendri
 
 ### Lexical Dictionary Entry: Dendritic Cell
 
-#### Lexical Dictionary Entry: Dendritic Cell
-
 **Dendritic Cell** (n.): A specialized type of antigen-presenting cell (APC) that plays a crucial role in the immune system by processing and presenting antigens to T cells. These cells are characterized by their unique morphology with long, branched projections (dendrites), which increase their surface area for interaction with T cells and antigens. Dendritic cells are critical for initiating and regulating adaptive immune responses, including tolerance and allergy, by migrating to lymphatic tissues after encountering pathogens or vaccination.
 
 #### Classification:
@@ -5358,8 +5356,6 @@ DNA nanostructures exemplify the intersection of biology and engineering, offeri
 
 
 ### Lexical Dictionary Entry: DNA Nanotube
-
-#### Lexical Dictionary Entry: DNA Nanotube
 
 **DNA Nanotube** (n.): A cylindrical, tube-like structure constructed from DNA molecules, characterized by its precise, programmable assembly based on the base-pairing rules of DNA hybridization. These nanotubes are designed to serve as scaffolds or conduits for molecular assembly, transport, and interaction, with applications in targeted drug delivery, biosensing, and as components in nanotechnology-based computing and materials science.
 
@@ -5841,39 +5837,39 @@ Drug-loaded nanoparticles represent a significant advancement in medicinal chemi
 
 **Definition:** A drug-resistant bacterium is a strain of bacteria that has evolved to survive exposure to one or more antibiotics or other antimicrobial agents, rendering standard treatments ineffective. This resistance is often due to genetic mutations or the acquisition of resistance genes through horizontal gene transfer.
 
-**Part-of-Speech:** Noun Phrase
+the part-of-speech is  Noun Phrase
 
 **Classification:** Pharmaceutical microbiology; this term falls within the broader classification of pathogens studied for their interactions with pharmaceutical compounds, particularly antimicrobial drugs.
 
-**Synonyms:**\
+#### Synonymy:
  - Antibiotic-resistant bacterium\
  - Antimicrobial-resistant bacterium\
  - Multidrug-resistant organism (when resistant to multiple drugs)
 
-**Hypernyms:**\
+#### Hypernymy:
  - Bacterium (general category)\
  - Pathogen (as a broader category that includes all disease-causing microorganisms)
 
-**Hyponyms:**\
+#### Hyponymy:
  - Methicillin-resistant Staphylococcus aureus (MRSA)\
  - Vancomycin-resistant Enterococcus (VRE)\
  - Multidrug-resistant Mycobacterium tuberculosis
 
-**Meronyms:**\
+#### Meronymy:
  - Resistance gene (the genetic element conferring resistance)\
  - Biofilm (a protective layer often produced by bacteria to evade drug action)
 
-**Part Holonyms:**\
+#### Part Holonyms:
  - Infections caused by drug-resistant bacteria (includes all clinical scenarios where such bacteria are the causative agents)
 
-**Verb Relations:**\
+#### Verb Relations:
  - Cause (to describe the role of drug-resistant bacteria in infections)\
  - Evade (referring to the bacteria's ability to avoid destruction by drugs)
 
-**Antonyms:**\
+#### Antonymy:
  - Drug-susceptible bacterium (bacteria that are effectively treated by standard antibiotics)
 
-**Relational Adjectives (Pertainyms):**\
+#### Relational Adjectives (Pertainyms):
  - Resistant (pertaining to the ability to resist treatment)
 
 ### Expanded Definition and Usage:
@@ -5976,7 +5972,7 @@ Dual delivery nanoparticles are crucial in modern therapeutic strategies where t
 
 **Definition:** A dual tumor-targeting nanocarrier system refers to advanced drug delivery vehicles that utilize two distinct targeting mechanisms to enhance specificity and efficacy in reaching and treating tumor cells. These systems usually combine passive targeting, which exploits the enhanced permeability and retention (EPR) effect of tumors, with active targeting, where carriers are engineered to recognize and bind to specific tumor-associated markers. This dual approach maximizes the concentration of therapeutic agents at the tumor site while minimizing systemic toxicity, thereby improving treatment outcomes and patient safety.
 
-**Part-of-Speech:** Noun Phrase
+the part-of-speech is  Noun Phrase
 
 **Classification:** Dual tumor-targeting nanocarrier systems are classified as biomedical devices within the fields of nanotechnology and oncology. They fall under the broader category of targeted drug delivery systems, specifically designed to interact with cancerous tissues.
 
@@ -5994,7 +5990,8 @@ Dual delivery nanoparticles are crucial in modern therapeutic strategies where t
 
 **Antonymy:** Antonymically, one might consider generic drug delivery systems as a contrast, as these do not specifically target tumor cells or may lack the dual-targeting mechanism.
 
-**Relational Adjectives (Pertainyms):** Relational adjectives for these systems include \"bivalent,\" \"dual-targeting,\" and \"specific,\" reflecting their design and operational principles.
+#### Relational Adjectives (Pertainyms): 
+Relational adjectives for these systems include \"bivalent,\" \"dual-targeting,\" and \"specific,\" reflecting their design and operational principles.
 
 ### Expanded Definition and Usage:
 Dual tumor-targeting nanocarrier systems are at the forefront of precision oncology, offering a promising solution to the challenges of drug delivery in cancer treatment. By combining different targeting mechanisms, these systems not only increase the local concentration of cytotoxic drugs but also reduce the likelihood of resistance and recurrence of tumors. The integration of diagnostic imaging agents can also facilitate real-time monitoring of treatment efficacy and drug distribution.
@@ -6222,7 +6219,7 @@ Echogenic liposomes are integral to modern ultrasound diagnostic practices, prov
 
 **Definition:** Electroactive scaffolds are three-dimensional biomaterials that generate electrical signals or respond to electrical stimuli. These scaffolds are designed to mimic the electrical properties of native tissues, particularly those of the nervous and muscular systems. They are primarily used in tissue engineering and regenerative medicine to enhance cell proliferation, differentiation, and functionality by providing an electrically active environment that can guide cellular behavior and tissue development.
 
-**Part-of-Speech:** Noun
+the part-of-speech is  Noun
 
 **Classification:**
  - **Biomedical Devices:** Electroactive scaffolds belong to the broader category of biomedical devices, specifically within the context of regenerative medicine and tissue engineering.
@@ -6255,7 +6252,7 @@ Echogenic liposomes are integral to modern ultrasound diagnostic practices, prov
 **Antonyms:**
  - **Passive Scaffold:** Refers to scaffolds that do not actively interact with cells or tissues through electrical or other stimuli.
 
-**Relational Adjectives (Pertainyms):**
+#### Relational Adjectives (Pertainyms):
  - **Electrically Active:** Pertaining to or characterized by the ability to conduct or respond to electrical signals.
 
 ### Expanded Definition and Usage:
@@ -6790,8 +6787,6 @@ Eligard, with its active ingredient leuprolide acetate, plays a crucial role in 
 
 ### Lexical Dictionary Entry: Emulsion Polymerization
 
-#### Lexical Dictionary Entry: Emulsion Polymerization
-
 **Emulsion Polymerization** (n.): A process of polymer synthesis that occurs in a colloidal system, where monomers are dispersed in water in the form of droplets, and polymerization occurs within these droplets. This technique is characterized by its use of surfactants to stabilize the monomer droplets and initiators to start the polymerization, leading to the formation of a stable latex or colloidal suspension of polymers.
 
 #### Classification:
@@ -7089,7 +7084,6 @@ Lexical dictionary entries such as the one provided for "Enzyme-Responsive" not 
 The EPR effect is critically important for improving the efficiency and safety of cancer treatments. By allowing drugs, particularly those delivered in nanoparticle form, to concentrate in tumor sites, the EPR effect reduces the dosage needed to achieve therapeutic levels at the tumor and minimizes exposure to healthy tissues. This phenomenon is influenced by the unique characteristics of tumor blood vessels, which are typically more permeable and have poor lymphatic drainage compared to normal tissues. Understanding and optimizing the EPR effect is crucial for the development of effective nanomedicine therapies that can significantly impact cancer treatment outcomes.
 
 
-
 ### Lexical Dictionary Entry: Exosome Isolation
 
 **Exosome Isolation** (n.): The process of extracting exosomes from biological fluids or cellular sources to study their composition and functions. This involves separating exosomes from cells, cell debris, and other plasma components such as proteins and lipids. Isolation techniques are critical for purifying exosomes so they can be analyzed for their RNA, proteins, and lipid content, providing insights into intercellular communication, disease pathology, and potential therapeutic applications.
@@ -7288,7 +7282,7 @@ The **fe3o4@sio2** composite material is pivotal in advancing nanomedicine due t
 
 **Definition:** FePO₄ nanoparticle refers to nanoscale particles composed of iron(III) phosphate, with the chemical formula FePO₄. These nanoparticles exhibit unique properties such as high surface area, reactivity, and tailored magnetic characteristics, making them valuable in various applications, including catalysis, water treatment, and biomedical fields. In biomedical applications, FePO₄ nanoparticles are explored for their potential in targeted drug delivery, magnetic resonance imaging (MRI), and as magnetic hyperthermia agents for cancer therapy.
 
-**Part-of-Speech:** Noun Phrase
+the part-of-speech is  Noun Phrase
 
 **Classification:**
  - **Chemical Compound:** As a compound of iron and phosphate.
@@ -7322,7 +7316,7 @@ The **fe3o4@sio2** composite material is pivotal in advancing nanomedicine due t
 **Antonyms:**
  - **Organic Nanoparticle:** Refers to nanoparticles predominantly made from organic compounds, contrasting with the inorganic nature of FePO₄.
 
-**Relational Adjectives (Pertainyms):**
+#### Relational Adjectives (Pertainyms):
  - **Magnetic:** Pertaining to their inherent magnetic properties due to the iron content.
 
 ### Expanded Definition and Usage:
